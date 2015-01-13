@@ -65,11 +65,12 @@
 			</div>
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav pull-right">
-					<li <?php if ($page == 'index.php') { ?>class="active"<?php } ?>><a id="_Home" href="index.php">Home</a></li>
-					<li <?php if ($page == 'about.php') { ?>class="active"<?php } ?>><a id="_About" href="about.php">About</a></li>
-					<li <?php if ($page == 'services.php') { ?>class="active"<?php } ?>><a id="_Services" href="services.php">Services</a></li>
-					<li <?php if ($page == 'recruiting.php') { ?>class="active"<?php } ?>><a id="_Recruiting" href="recruiting.php">Recruiting</a></li>
-					<li <?php if ($page == 'contact.php') { ?>class="active"<?php } ?>><a id="_Contact" href="contact.php">Contact</a></li>
+					<li <?php if ($page == 'index.php') { ?>class="active"<?php } ?>><a href="index.php">Home</a></li>
+					<li <?php if ($page == 'about.php') { ?>class="active"<?php } ?>><a href="about.php">About</a></li>
+					<li <?php if ($page == 'careers.php') { ?>class="active"<?php } ?>><a href="careers.php">Careers</a></li>
+					<li <?php if ($page == 'services.php') { ?>class="active"<?php } ?>><a href="services.php">Services</a></li>
+					<li <?php if ($page == 'recruiting.php') { ?>class="active"<?php } ?>><a href="recruiting.php">Recruiting</a></li>
+					<li <?php if ($page == 'contact.php') { ?>class="active"<?php } ?>><a href="contact.php">Contact</a></li>
 					<!-- <li><a class="btn" target="_blank" href="https://docs.google.com/forms/d/1rsb8d0gqqizVJVbWy825Y5NTZDn2F89ym6iS1qzxPQw/viewform">APPLY</a></li> -->
 				</ul>
 			</div><!--/.nav-collapse -->
