@@ -202,28 +202,29 @@
 			<br>
 	      <div class="row">
 
-	      	<div class="col-xs-6 col-md-3">
-						<img src="assets/images/team/tedx.jpg" class="img" alt="Ted">
-						<h4>Ted Xiao</h4>
-						<p>EECS</p>
-					</div>
-					<div class="col-xs-6 col-md-3">
-						<img src="assets/images/team/gisellef.jpg" class="img" alt="Giselle">
-						<h4>Giselle Fang</h4>
-						<p>Business &amp; Math</p>
-					</div>
-					<div class="col-xs-6 col-md-3">
-						<img src="assets/images/team/grey-person.png" class="img" alt="Krishna">
-						<h4>Krishna Mocherla</h4>
-						<p>Business</p>
-					</div>
-					<div class="col-xs-6 col-md-3">
-						<img src="assets/images/team/oliviag.jpg" class="img" alt="Olivia">
-						<h4>Olivia Gu</h4>
-						<p>Business</p>
-					</div>
+	      	
+			<div class="col-xs-6 col-md-3">
+				<img src="assets/images/team/gisellef.jpg" class="img" alt="Giselle">
+				<h4>Giselle Fang</h4>
+				<p>Business &amp; Math</p>
+			</div>
+			<div class="col-xs-6 col-md-3">
+				<img src="assets/images/team/oliviag.jpg" class="img" alt="Olivia">
+				<h4>Olivia Gu</h4>
+				<p>Business</p>
+			</div>
+			<div class="col-xs-6 col-md-3">
+				<img src="assets/images/team/grey-person.png" class="img" alt="Krishna">
+				<h4>Krishna Mocherla</h4>
+				<p>Business</p>
+			</div>
+			<div class="col-xs-6 col-md-3">
+				<img src="assets/images/team/tedx.jpg" class="img" alt="Ted">
+				<h4>Ted Xiao</h4>
+				<p>EECS</p>
+			</div>
 
-				</div>
+			</div>
 
 				<br>
 
@@ -231,26 +232,25 @@
 				<br>
 
 				<div class="row">
-
+					<div class="col-xs-6 col-md-3">
+						<img src="assets/images/team/sumedhb.jpg" class="img" alt="Sumedh">
+						<h4>Sumedh Bhattacharya</h4>
+						<p>Major</p>
+					</div>
+					<div class="col-xs-6 col-md-3">
+						<img src="assets/images/team/joannac.jpg" class="img" alt="Joanna">
+						<h4>Joanna Chou</h4>
+						<p>Business</p>
+					</div>					
 					<div class="col-xs-6 col-md-3">
 						<img src="assets/images/team/rohitg.jpg" class="img" alt="Rohit">
 						<h4>Rohit Gupta</h4>
 						<p>Business</p>
 					</div>
 					<div class="col-xs-6 col-md-3">
-						<img src="assets/images/team/grey-person.png" class="img" alt="Person">
-						<h4>Person</h4>
-						<p>Major</p>
-					</div>
-					<div class="col-xs-6 col-md-3">
-						<img src="assets/images/team/grey-person.png" class="img" alt="Person">
-						<h4>Person</h4>
-						<p>Major</p>
-					</div>
-					<div class="col-xs-6 col-md-3">
-						<img src="assets/images/team/grey-person.png" class="img" alt="Person">
-						<h4>Person</h4>
-						<p>Major</p>
+						<img src="assets/images/team/janes.jpg" class="img" alt="Jane">
+						<h4>Jane Sima</h4>
+						<p>Business &amp; CS</p>
 					</div>
 
 				</div>
@@ -265,15 +265,16 @@
 						<div class="row">
 
 							<div class="col-md-6">
-								<img src="assets/images/team/philmont.jpg" class="img" alt="Philmon">
-								<h4>Philmon Tanuri</h4>
-								<p>Business</p>
-							</div>
-							<div class="col-md-6">
 								<img src="assets/images/team/albertc.jpg" class="img" alt="Albert">
 								<h4>Albert Chiu</h4>
 								<p>ChemE</p>
 							</div>
+							<div class="col-md-6">
+								<img src="assets/images/team/philmont.jpg" class="img" alt="Philmon">
+								<h4>Philmon Tanuri</h4>
+								<p>Business</p>
+							</div>
+							
 						</div>
 					</div>
 

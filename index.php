@@ -5,7 +5,7 @@
 			<div class="row">
 				<h1 class="lead"><span>VOYAGER</span> CONSULTING</h1>
 				<h2 class="tagline">
-					Strategy Consultants <br><br> <i class="fa fa-angle-double-down"></i>
+					<a href="#jumbotron" id="front-tab"> Strategy Consultants <br><br> <i class="fa fa-angle-double-down"></i></a>
 				</h2>	
 			</div>
 		</div>
@@ -22,7 +22,7 @@
 	<!-- /Intro-->
 		
 	<!-- Highlights - jumbotron -->
-	<div class="jumbotron top-space">
+	<div class="jumbotron top-space" id="jumbotron">
 		<div class="container">
 			
 			<div class="row">

@@ -45,6 +45,19 @@ html, body {
     background-attachment: fixed;
 }
 
+#front-tab {
+	color: #fff;
+}
+
+#front-tab:hover {
+	color: #333;
+	text-decoration: none;
+}
+
+#front-tab:focus {
+	text-decoration: none;
+}
+
 .head#about { 
     background: #111 url(../images/team.jpg) 50% 0 fixed; 
     background-size: cover;
