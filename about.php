@@ -214,7 +214,7 @@
 				<p>Business</p>
 			</div>
 			<div class="col-xs-6 col-md-3">
-				<img src="assets/images/team/grey-person.png" class="img" alt="Krishna">
+				<img src="assets/images/team/krishnam.jpg" class="img" alt="Krishna">
 				<h4>Krishna Mocherla</h4>
 				<p>Business</p>
 			</div>
