@@ -68,7 +68,7 @@
 								<script type="text/javascript">
   									document.write(new Date().getFullYear());
 								</script>
-								, Voyager Consulting. Designed by <a href="http://therealmatt.com/" target="_blank" rel="designer">Matthew Wong</a>. <a href="README.md" target="_blank" rel="designer">License.</a> 
+								, Voyager Consulting. Designed by <a href="http://therealmatt.com/" target="_blank" rel="designer">Matt</a> &amp; <a href="http://www.felixwliu.com/" target="_blank" rel="designer">Felix</a>. <a href="README.md" target="_blank" rel="designer">License.</a> 
 							</p>
 						</div>
 					</div>

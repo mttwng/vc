@@ -189,8 +189,8 @@
 
 				<div class="col-xs-6 col-md-9">
 					<h3>Internal Vice President - Vedika Prakash</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-					<p>Contact: <a href="mailto:matthew.wong@berkeley.edu" target="_blank">______@berkeley.edu</a></p>
+					<p>Vedika is a junior majoring in Economics. She has been at Voyager since her Freshmen year and has worked as Consultant and Project Manager on cases such as Pinterest and NBA. This past summer, Vedika interned at Ernst &amp; Young’s Advisory function. In her free time, she is usually caught following up on some latest headlines from her home country India, or exploring the Bay Area.</p>
+					<p>Contact: <a href="mailto:vedika@berkeley.edu" target="_blank">vedika@berkeley.edu</a></p>
 				</div>
 
 			</div>
