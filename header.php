@@ -65,6 +65,12 @@
 	</script>
 	<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=727213910719134&amp;ev=PixelInitialized" /></noscript>
 
+	<?php if ($page == 'apply.php') { ?>
+			<meta http-equiv="refresh" content="0; url=https://voyager-consulting.workable.com/jobs/31573" />
+		<?php } 
+
+	?>
+
 </head>
 
 <body class="home">
@@ -91,7 +97,7 @@
 					<li <?php if ($page == 'services.php') { ?>class="active"<?php } ?>><a href="services.php">Services</a></li>
 					<li <?php if ($page == 'recruiting.php') { ?>class="active"<?php } ?>><a href="recruiting.php">Recruiting</a></li>
 					<li <?php if ($page == 'contact.php') { ?>class="active"<?php } ?>><a href="contact.php">Contact</a></li>
-					<li><a class="btn" target="_blank" href="https://voyager-consulting.workable.com/jobs/31573">APPLY</a></li>
+					<li><a class="btn" target="_blank" href="apply.php">APPLY</a></li>
 				</ul>
 			</div><!--/.nav-collapse -->
 		</div>
