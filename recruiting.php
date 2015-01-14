@@ -29,7 +29,7 @@
 	<h2>Application Process</h2>
     <p>Voyager recruits at the beginning of each Fall and Spring semester. The application is open to any Cal student regardless of major or year. We are located on Sproul during the beginning weeks of each semester when we recruit. Two Info Nights and one Case Workshop are then held for candidates. We reccomend that potential candidates try to find the Voyager table on Sproul or come to our Info Nights to learn more about the club and to get to know our members. Interested candidates can then apply online before the deadline to be considered.</p> 
     
-	<h2>Timeline <span style="color:#999">- Fall 2015</span></h2>
+	<h2>Timeline <span style="color:#999">- Spring 2015</span></h2>
 	<div class="table-responsive">
     <table class="table table-striped">
         <thead>
