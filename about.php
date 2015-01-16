@@ -1,13 +1,13 @@
 <?php include 'header.php';?>
 
-	<section class="head head-img" id="about" data-speed="2" data-type="background">
-	</section>
+		<div class="page-header" data-parallax="scroll" data-image-src="assets/images/team.jpg">
+		</div>
 
 	<div class="container">
 
-		<header class="page-header">
+<!-- 		<header class="page-header">
 			<h1 class="page-title">About</h1>
-		</header>
+		</header> -->
 
 
 	  <ul id="tabs" class="nav nav-tabs nav-justified" data-tabs="tabs">
@@ -304,9 +304,9 @@
 
 
 		<script type="text/javascript">
-		    jQuery(document).ready(function ($) {
-		        $('#tabs').tab();
-		    });
+		    // $(document).ready(function () {
+		    //     $('#tabs').tab();
+		    // });
 		</script>    
 
 	</div> <!-- container -->

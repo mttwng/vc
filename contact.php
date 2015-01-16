@@ -1,21 +1,17 @@
 <?php include 'header.php';?>
 
-	<section class="head head-img" id="contact" data-speed="2" data-type="background">
-	    <div class="container">
-				<div class="row">
-					<h1 class="lead">Contact Us</h1>			
-				</div>
-			</div>
-	</section>
+
+        <div class="page-header" data-parallax="scroll" data-image-src="assets/images/contact.jpg">
+        </div>
 
 	<div class="container">
 		<div class="row">
 			
 			<!-- Article main content -->
 			<article class="col-sm-9 maincontent">
-				<header class="page-header">
+<!-- 				<header class="page-header">
 					<h1 class="page-title">Say Hello</h1>
-				</header>
+				</header> -->
 				<p>
 					We’d love to hear from you. Interested in working together? Fill out the form below with some info and we'll get back to you. Ask us about our services, recruiting, or anything in general.
 				</p>

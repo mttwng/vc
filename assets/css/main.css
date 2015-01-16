@@ -671,6 +671,14 @@ td.header:hover {
 .down-arrow:hover {
 	opacity: 1;
 }
+
+.page-header {
+	width: 100%;
+	position: relative;
+	background: transparent;
+	min-height: 550px;
+	background-size: cover;
+}
 /*#trigger1 {
 	margin-bottom: 200px;
 }

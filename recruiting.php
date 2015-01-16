@@ -1,12 +1,7 @@
 <?php include 'header.php';?>
 
-<section class="head head-img" id="apply" data-speed="2" data-type="background">
-    <div class="container">
-			<div class="row">
-				<h1 class="lead">Recruiting</h1>	
-			</div>
-		</div>
-</section>
+    <div class="page-header" data-parallax="scroll" data-image-src="assets/images/apply1.jpg">
+    </div>
 
 <div class="container">
 
@@ -20,10 +15,10 @@
     </div> -->
     
 
-	<header class="page-header">
+<!-- 	<header class="page-header">
 		<h1 class="page-title">Recruiting</h1>
 	</header>
-
+ -->
 	<p>We seek consultants from a diverse range of backgrounds ranging from Haas to EECS, Regent Scholars and more. Having a diverse and passionate community is an integral part of Voyager culture and the service we offer clients. We recruit at the beginning of both Fall and Spring semesters and accept individuals from all backgrounds, years and majors.</p>
 
 	<h2>Application Process</h2>

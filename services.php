@@ -1,19 +1,13 @@
 <?php include 'header.php';?>
 
-<section class="head head-img" id="services" data-speed="2" data-type="background">
-    <div class="container">
-			<div class="row">
-				<h1 class="lead">Services</h1>	
-			</div>
-		</div>
-</section>
-
+        <div class="page-header" data-parallax="scroll" data-image-src="assets/images/services.jpg">
+        </div>
 
 	<div class="container">
 
-		<header class="page-header">
+<!-- 		<header class="page-header">
 			<h1 class="page-title">Services</h1>
-		</header>
+		</header> -->
 
 		<h2>Clients</h2>
 		<p>
