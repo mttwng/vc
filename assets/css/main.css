@@ -680,7 +680,16 @@ td.header:hover {
 	line-height: 200px;
 	background-size: cover;
 	color: white;
+	text-align: center;
+	padding-top: 180px;
+	color: white;
 }
+
+.page-header-pic .lead {
+	font-size: 90px;
+	margin-bottom: 26px;
+	font-weight: 200;
+ }
 
 .page-header-pic div {
 	position: relative;

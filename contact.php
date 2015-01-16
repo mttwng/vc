@@ -2,6 +2,7 @@
 
 
         <div class="page-header-pic" data-parallax="scroll" data-image-src="assets/images/contact.jpg">
+        	<h1 class="lead">Contact</h1>
         </div>
 
 	<div class="container">

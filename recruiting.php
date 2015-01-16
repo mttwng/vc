@@ -1,6 +1,7 @@
 <?php include 'header.php';?>
 
     <div class="page-header-pic" data-parallax="scroll" data-image-src="assets/images/apply.jpg">
+        <h1 class="lead">Recruiting</h1>
     </div>
 
 <div class="container">
