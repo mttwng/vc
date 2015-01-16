@@ -48,17 +48,17 @@
             <tr>
                 <td>Info Night #1</td>
                 <td>Tues Jan 27, 7:00 PM</td>
-                <td>Evans 4</td>
+                <td>Moffit 102</td>
             </tr>
             <tr>
                 <td>Info Night #2</td>
                 <td>Thurs Jan 29, 7:00 PM</td>
-                <td>Evans 4</td>
+                <td>Moffit 102</td>
             </tr>
             <tr>
                 <td>Case Workshop</td>
                 <td>Fri Jan 30, 7:00 PM</td>
-                <td>Evans 4</td>
+                <td>Dwinelle 247</td>
             </tr>
             <tr>
                 <td>Application Deadline</td>
