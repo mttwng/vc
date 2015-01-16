@@ -59,38 +59,7 @@
 			<a type="button" href="services.php" class="btn btn-default whitebutton">Services</a>
 		</div>
 	</div>
-	<div class="down-arrow">
-		<img id="bottomArrow" href="#footer" src="assets/images/arrowbottom2.png">
-	</div>
 </div>
 
-<!-- What's Next -->
-	<!-- container -->
-	<div class="container bottom-space" id="end-transparent">
-		<div class="row top-space">
-			<h2 class="text-center">Whats next?</h2>
-			<hr>
-		</div> <!-- row -->
-
-		<div class="row">
-			<div class="col-md-6">
-				<h3>Partner with us</h3>
-				<p>
-					Voyager provides a diverse range of services ranging from industry profiles to marketing strategy. We recruit very selectively with competitive students from diverse backgrounds. Clients benefit from access to industry experts and cutting edge research at a tier one research institution. 
-				</p>
-				<br>
-				<a type="button" href="contact.php" class="btn btn-success">Contact</a>
-			</div>
-			<div class="col-md-6">
-				<h3>Join us</h3>
-				<p>
-					Members gain unique access to one of the most well connected startup, tech and consulting networks within UC Berkeley. We open our application at the beginning of each Fall and Spring semester. Just fill one out and we'll get back to you.
-				</p>
-				<br>
-				<a type="button" href="recruiting.php" class="btn btn-primary">Recruiting</a>
-			</div>
-		</div> <!-- /row -->
-
-</div>	<!-- /container -->
 
 <?php include 'footer.php';?>

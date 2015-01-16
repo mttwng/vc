@@ -1,5 +1,5 @@
 
-	<footer id="footer" class="top-space">
+	<footer id="footer" <?php if ($page != 'index.php') { ?>class="top-space"<?php } ?>>
 
 		<div class="footer1">
 			<div class="container">
