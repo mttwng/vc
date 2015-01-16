@@ -1,61 +1,70 @@
 <?php include 'header.php';?>
 
-<section class="head head-img" id="home" data-type="background"> <!-- data-speed="6.3" -->
+<!-- Opening Page -->
+
+<div id="vertical" class="screen-fit head-img" data-parallax="scroll" data-image-src="assets/images/bg.jpg">
     <div class="container">
-			<div class="row">
-				<h1 class="lead"><span>VOYAGER</span> CONSULTING</h1>
-				<h2 class="tagline">
-					<a href="#jumbotron" id="front-tab"> Strategy Consultants <br><br> <i class="fa fa-angle-double-down"></i></a>
-				</h2>	
-			</div>
-		</div>
-</section>
-
-	<!-- Intro -->
-	<div class="container text-center">
-		<div class="row top-space bottom-space">
-			<div class="col-md-8 col-md-offset-2">
-				<h3 class="thin">Voyager is a student-run UC Berkeley organization that provides strategy consulting services to growth and Fortune 500 companies.</h3>
-			</div>
-		</div> <!-- /row  -->
-	</div>
-	<!-- /Intro-->
-		
-	<!-- Highlights - jumbotron -->
-	<div class="jumbotron top-space" id="jumbotron">
-		<div class="container">
-			
-			<div class="row">
-				<div class="col-md-4 highlight">
-					<div class="h-caption"><h2><i class="fa fa-graduation-cap fa-5x"></i>People</h2></div>
-					<div class="h-body text-center">
-						<p>Consultants are selected from a diverse range of backgrounds and rank at the top of their classes. Alumni have gone to prestigious institutions such as Goldman Sachs, Bain &amp; Company, and Apple.</p>
-						<br>
-						<a type="button" href="careers.php" class="btn btn-default">Careers</a>
-					</div>
-				</div>
-				<div class="col-md-4 highlight">
-					<div class="h-caption"><h2><i class="fa fa-heart fa-5x"></i>Culture</h2></div>
-					<div class="h-body text-center">
-						<p>At the heart of Voyager, there is more than a consulting club; there is a family who strives to create an enriching personal and professional experience for every member.</p>
-						<br>
-						<a type="button" href="about.php" class="btn btn-default">About</a>
-					</div>
-				</div>
-				<div class="col-md-4 highlight">
-					<div class="h-caption"><h2><i class="fa fa-check fa-5x"></i>Results</h2></div>
-					<div class="h-body text-center">
-						<p>Voyager has partnered with clients across the tech spectrum and Fortune 500 range with a proven track record of solving difficult problems using fact-based, expert supported solutions.</p>
-						<br>
-						<a type="button" href="services.php" class="btn btn-default">Services</a>
-					</div>
-				</div>				
-			</div> <!-- /row  -->
-		
+		<div class="row">
+			<h1 class="lead"><span>VOYAGER</span> CONSULTING</h1>
+			<h2 class="tagline">
+				<a href="#trigger1" id="front-tab"> Strategy Consultants <br><br> <i class="fa fa-angle-double-down"></i></a>
+			</h2>	
 		</div>
 	</div>
-	<!-- /Highlights -->
+</div>
 
+<!-- People -->
+<div class="screen-fit" data-parallax="scroll" data-image-src="assets/images/club.jpg">
+	<div id="trigger1"></div>
+	<div id="left-bar-1" class="left-bar">
+		<div class="bar-text">
+			<h1>People</h1>
+			<p>Consultants are selected from a diverse range of backgrounds and rank
+			 at the top of their classes. Alumni have gone to prestigious institutions
+			  such as Goldman Sachs, Bain &amp; Company, and Apple.</p>
+			<a type="button" href="careers.php" class="btn btn-default whitebutton">Careers</a>
+		</div>
+	</div>
+	<div class="down-arrow">
+		<img id="bottomArrow" href="#trigger2" src="assets/images/arrowbottom2.png">
+	</div>
+</div>
+
+<!-- Culture -->
+<div class="screen-fit" data-parallax="scroll" data-image-src="assets/images/culture.jpg">
+	<div id="trigger2"></div>
+	<div id="right-bar-1" class="right-bar">
+		<div class="bar-text">
+			<h1>Culture</h1>
+			<p>At the heart of Voyager, there is more than a consulting club;
+			there is a family who strives to create an enriching personal and
+			professional experience for every member.</p>
+			<a type="button" href="about.php" class="btn btn-default whitebutton">About</a>
+		</div>
+	</div>
+	<div class="down-arrow">
+		<img id="bottomArrow" href="#trigger3" src="assets/images/arrowbottom2.png">
+	</div>
+</div>
+
+<!-- Results -->
+<div class="screen-fit" data-parallax="scroll" data-image-src="assets/images/results.jpg">
+	<div id="trigger3"></div>
+	<div id="left-bar-2" class="left-bar">
+		<div class="bar-text">
+			<h1>Results</h1>
+			<p>Voyager has partnered with clients across the tech spectrum
+			and Fortune 500 range with a proven track record of solving difficult
+			problems using fact-based, expert supported solutions.</p>
+			<a type="button" href="services.php" class="btn btn-default whitebutton">Services</a>
+		</div>
+	</div>
+	<div class="down-arrow">
+		<img id="bottomArrow" href="#footer" src="assets/images/arrowbottom2.png">
+	</div>
+</div>
+
+<!-- What's Next -->
 	<!-- container -->
 	<div class="container bottom-space" id="end-transparent">
 		<div class="row top-space">

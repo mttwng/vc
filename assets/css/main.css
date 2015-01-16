@@ -572,3 +572,109 @@ td.header:hover {
 	border-top: none;
 }
 
+/* Felix Liu CSS Edits */
+
+.screen-fit {
+	height: 100px; 
+	min-height: 100px; 
+	padding-top:0px;
+	height: 100vh;
+	width: 100%;
+	position: relative;
+	/*background-color: black;*/
+	background: transparent;
+	/*background-image: url(../images/bg.jpg);*/
+	/*background-attachment: fixed;*/
+	background-size: cover;
+}
+
+.screen-fit#vertical {
+	background-repeat: no-repeat;
+	min-height: 100%;
+	padding-top: 19%;
+	background-repeat: no-repeat;
+}
+
+.screen-fit .lead {
+	font-size: 90px;
+	margin-bottom: 26px;
+	font-weight: 200;
+}
+
+.left-bar {
+	background-color: black;
+	width: 33%;
+	min-height: 100%;
+	position: relative;
+    transform: translateX(-100%);
+	opacity: 0.8;
+}
+
+.container-bar {
+    position: relative;
+    width: 100%;
+}
+.right-bar {
+	background-color: black;
+	width: 33%;
+	right: 0;
+	transform: translateX(200%);
+	min-height: 100%;
+	position: absolute;
+	opacity: 0.8;
+}
+
+.bar-text {
+	opacity: 1;
+	margin: 0 auto;
+	position: absolute;
+	color: white;
+	text-align: center;
+	width: 75%;
+	padding-bottom: 50px;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+
+.whitebutton {
+	color: white;
+	-webkit-box-shadow: inset 0px 0px 0px 2px white;
+	-moz-box-shadow: inset 0px 0px 0px 2px white;
+	box-shadow: inset 0px 0px 0px 2px white;
+}
+
+.whitebutton:hover, .whitebutton:focus {
+	color: black;
+	background: white;
+	background: solid;
+	-webkit-box-shadow: inset 0px 0px 0px 2px black;
+	-moz-box-shadow: inset 0px 0px 0px 2px black;
+	box-shadow: inset 0px 0px 0px 2px black;
+}
+
+.down-arrow {
+	width: 145px;
+	left: 45%;
+	bottom: 0px;
+	display: block;
+	position: absolute;
+	cursor: pointer;
+
+	opacity: 0.2;
+    transition: opacity .5s ease-out;
+    -moz-transition: opacity .5s ease-out;
+    -webkit-transition: opacity .5s ease-out;
+    -o-transition: opacity .5s ease-out;
+}
+
+.down-arrow:hover {
+	opacity: 1;
+}
+/*#trigger1 {
+	margin-bottom: 200px;
+}
+*/
+
+
+
