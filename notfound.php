@@ -1,6 +1,6 @@
 <?php include 'header.php';?>
 
-	<section class="head head-img" id="notfound" data-speed="1.7" data-type="background">
+	<section class="head head-img" id="notfound" data-type="background">
 	    <div class="container">
 				<div class="row">
 					<h1 class="lead">404</h1>			

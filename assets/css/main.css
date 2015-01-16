@@ -634,7 +634,7 @@ td.header:hover {
 	color: white;
 	text-align: center;
 	width: 75%;
-	padding-bottom: 50px;
+	padding-bottom: 60%;
 	left: 0;
 	right: 0;
 	bottom: 0;
@@ -664,7 +664,7 @@ td.header:hover {
 	position: absolute;
 	cursor: pointer;
 
-	opacity: 0.2;
+	opacity: 0.5;
     transition: opacity .5s ease-out;
     -moz-transition: opacity .5s ease-out;
     -webkit-transition: opacity .5s ease-out;
@@ -679,11 +679,22 @@ td.header:hover {
 	width: 100%;
 	position: relative;
 	background: transparent;
-	min-height: 550px;
+	min-height: 500px;
 	line-height: 200px;
 	background-size: cover;
 	color: white;
+	text-align: center;
+	padding-top: 180px;
+	color: white;
 }
+
+.screen-fit .lead,
+.page-header-pic .lead {
+	font-size: 90px;
+	margin-bottom: 26px;
+	font-weight: 200;
+	color: white;
+ }
 
 .page-header-pic div {
 	position: relative;
