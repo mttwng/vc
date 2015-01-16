@@ -1,5 +1,5 @@
 <?php include 'header.php';?>
-    <div class="page-header-pic" data-parallax="scroll" data-speed="0.7" data-image-src="assets/images/careers.jpg">
+    <div class="page-header-pic" data-parallax="scroll" data-speed="0.55" data-image-src="assets/images/careers.jpg">
         <h1 class="lead">Careers</h1>
     </div>
 
