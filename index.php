@@ -7,14 +7,14 @@
 		<div class="row">
 			<h1 class="lead"><span>VOYAGER</span> CONSULTING</h1>
 			<h2 class="tagline">
-				<a href="#trigger1" id="front-tab"> Strategy Consultants <br><br> <i class="fa fa-angle-double-down"></i></a>
+				<a href="#trigger1" id="front-tab"> Impact Driven <br><br> <i class="fa fa-angle-double-down"></i></a>
 			</h2>	
 		</div>
 	</div>
 </div>
 
 <!-- People -->
-<div class="screen-fit" data-parallax="scroll" data-image-src="assets/images/club.jpg">
+<div class="screen-fit" data-parallax="scroll" data-image-src="assets/images/club1.jpg">
 	<div id="trigger1"></div>
 	<div id="left-bar-1" class="left-bar">
 		<div class="bar-text">
@@ -31,7 +31,7 @@
 </div>
 
 <!-- Culture -->
-<div class="screen-fit" data-parallax="scroll" data-image-src="assets/images/culture.jpg">
+<div class="screen-fit" data-parallax="scroll" data-image-src="assets/images/culture1.jpg">
 	<div id="trigger2"></div>
 	<div id="right-bar-1" class="right-bar">
 		<div class="bar-text">

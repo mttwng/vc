@@ -92,8 +92,9 @@
 	<script src="assets/js/jQuery.headroom.min.js"></script>
 	<script src="assets/js/template.js"></script>
 	<script src="assets/js/parallax.min.js"></script>
-	<script src="assets/js/jquery.scrollmagic.js"></script>
-	<script src="assets/js/jquery.scrollmagic.debug.js"></script>
+	<!-- // <script src="assets/js/jquery.scrollmagic.js"></script> -->
+	<script src="assets/js/jquery.scrollmagic.min.js"></script>
+	<!-- // <script src="assets/js/jquery.scrollmagic.debug.js"></script> -->
 
 	<!-- Custom -->	
 

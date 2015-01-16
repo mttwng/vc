@@ -49,7 +49,7 @@ $(document).ready(function() {
             .setTween(left2)
             .addTo(controller);
 
-    scene.addIndicators();
+    // scene.addIndicators();
 
 });
 /* Create HTML5 element for IE */
