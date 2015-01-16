@@ -1,12 +1,8 @@
 <?php include 'header.php';?>
 
-	<section class="head" id="contact" data-speed="1.7" data-type="background">
-	    <div class="container">
-				<div class="row">
-					<h1 class="lead">Contact Us</h1>			
-				</div>
-			</div>
-	</section>
+	<div class="page-header-pic" data-parallax="scroll" data-speed="0.8" data-image-src="assets/images/notfound.jpg">
+    	<h1 class="lead">Contact Us</h1>
+    </div>
 
 	<div class="container">
 		<div class="row">
@@ -14,7 +10,7 @@
 			<!-- Article main content -->
 			<article class="col-sm-9 maincontent">
 				<header class="page-header">
-					<h1 class="page-title">Thanks for reaching out, we will get back to you.</h1>
+					<h1 class="page-title">Thanks for reaching out, we will get back to you as soon as possible.</h1>
 				</header>
 
 			</article>

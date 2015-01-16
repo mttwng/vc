@@ -62,6 +62,9 @@
 			<a type="button" href="services.php" class="btn btn-default whitebutton">Services</a>
 		</div>
 	</div>
+	<div class="down-arrow">
+		<img id="bottomArrow" href="#footer" src="assets/images/arrowbottom2.png">
+	</div>
 </div>
 
 
