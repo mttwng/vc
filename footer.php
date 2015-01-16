@@ -54,6 +54,7 @@
 							<p class="simplenav">
 								<a href="index.php">Home</a> | 
 								<a href="about.php">About</a> |
+								<a href="careers.php">Careers</a> | 
 								<a href="services.php">Services</a> |
 								<a href="recruiting.php">Recruiting</a> |
 								<a href="contact.php">Contact</a>
@@ -68,7 +69,7 @@
 								<script type="text/javascript">
   									document.write(new Date().getFullYear());
 								</script>
-								, Voyager Consulting. Designed by <a href="http://therealmatt.com/" target="_blank" rel="designer">Matthew Wong</a>. <a href="README.md" target="_blank" rel="designer">License.</a> 
+								, Voyager Consulting. Designed by <a href="http://therealmatt.com/" target="_blank" rel="designer">Matt</a> &amp; <a href="http://www.felixwliu.com/" target="_blank" rel="designer">Felix</a>. <a href="README.md" target="_blank" rel="designer">License.</a> 
 							</p>
 						</div>
 					</div>

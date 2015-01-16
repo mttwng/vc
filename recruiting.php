@@ -29,7 +29,7 @@
 	<h2>Application Process</h2>
     <p>Voyager recruits at the beginning of each Fall and Spring semester. The application is open to any Cal student regardless of major or year. We are located on Sproul during the beginning weeks of each semester when we recruit. Two Info Nights and one Case Workshop are then held for candidates. We reccomend that potential candidates try to find the Voyager table on Sproul or come to our Info Nights to learn more about the club and to get to know our members. Interested candidates can then apply online before the deadline to be considered.</p> 
     
-	<h2>Timeline <span style="color:#999">(Fall 2014)</span></h2>
+	<h2>Timeline <span style="color:#999">- Spring 2015</span></h2>
 	<div class="table-responsive">
     <table class="table table-striped">
         <thead>
@@ -42,27 +42,27 @@
         <tbody>
             <tr>
                 <td>Tabling</td>
-                <td>Sept 1 to Sept 12</td>
+                <td>Jan 20 to Jan 30</td>
                 <td>Sproul Plaza</td>
             </tr>
             <tr>
                 <td>Info Night #1</td>
-                <td>Mon Sept 8, 7:00 PM</td>
-                <td>Evans 4</td>
+                <td>Tues Jan 27, 7:00 PM</td>
+                <td>Moffit 102</td>
             </tr>
             <tr>
                 <td>Info Night #2</td>
-                <td>Weds Sept 10, 7:00 PM</td>
-                <td>Evans 4</td>
+                <td>Thurs Jan 29, 7:00 PM</td>
+                <td>Moffit 102</td>
             </tr>
             <tr>
                 <td>Case Workshop</td>
-                <td>Fri Sept 12, 7:00 PM</td>
-                <td>Evans 4</td>
+                <td>Fri Jan 30, 7:00 PM</td>
+                <td>Dwinelle 247</td>
             </tr>
             <tr>
                 <td>Application Deadline</td>
-                <td>Sat Sept 13, 12:00 PM</td>
+                <td>Sat Jan 31, 12:00 PM</td>
                 <td>Online</td>
             </tr>
         </tbody>

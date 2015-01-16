@@ -3,7 +3,8 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<meta name="viewport"    content="width=device-width, initial-scale=1.0">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="author" content="Matthew Wong, Felix Liu">
 	<meta name="fb_admins_meta_tag" content="VC.Berkeley"/>
 	<meta name="keywords" content="Berkeley Consulting Club, Voyager Consulting"/>
 	<meta name="description" content="VC is a UC Berkeley based non-profit, student business organization that provides consulting services to growth and technology companies in the Bay area."/>
@@ -45,6 +46,48 @@
   		ga('create', 'UA-37315759-1', 'auto');
   		ga('send', 'pageview');
 	</script>
+
+	<!-- Facebook Pixel  -->
+	<script>(function() {
+		var _fbq = window._fbq || (window._fbq = []);
+		if (!_fbq.loaded) {
+		var fbds = document.createElement('script');
+		fbds.async = true;
+		fbds.src = '//connect.facebook.net/en_US/fbds.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(fbds, s);
+		_fbq.loaded = true;
+		}
+		_fbq.push(['addPixelId', '727213910719134']);
+		})();
+		window._fbq = window._fbq || [];
+		window._fbq.push(['track', 'PixelInitialized', {}]);
+	</script>
+	<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=727213910719134&amp;ev=PixelInitialized" /></noscript>
+
+	<!-- Facebook Conversion Code for Apply -->
+	<script>(function() {
+	var _fbq = window._fbq || (window._fbq = []);
+	if (!_fbq.loaded) {
+	var fbds = document.createElement('script');
+	fbds.async = true;
+	fbds.src = '//connect.facebook.net/en_US/fbds.js';
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(fbds, s);
+	_fbq.loaded = true;
+	}
+	})();
+	window._fbq = window._fbq || [];
+	window._fbq.push(['track', '6021097818450', {'value':'0.01','currency':'USD'}]);
+	</script>
+	<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6021097818450&amp;cd[value]=0.01&amp;cd[currency]=USD&amp;noscript=1" /></noscript>
+
+	<?php if ($page == 'apply.php') { ?>
+			<meta http-equiv="refresh" content="0; url=https://voyager-consulting.workable.com/jobs/31573" />
+		<?php } 
+
+	?>
+
 </head>
 
 <body class="home">
@@ -71,7 +114,7 @@
 					<li <?php if ($page == 'services.php') { ?>class="active"<?php } ?>><a href="services.php">Services</a></li>
 					<li <?php if ($page == 'recruiting.php') { ?>class="active"<?php } ?>><a href="recruiting.php">Recruiting</a></li>
 					<li <?php if ($page == 'contact.php') { ?>class="active"<?php } ?>><a href="contact.php">Contact</a></li>
-					<!-- <li><a class="btn" target="_blank" href="https://docs.google.com/forms/d/1rsb8d0gqqizVJVbWy825Y5NTZDn2F89ym6iS1qzxPQw/viewform">APPLY</a></li> -->
+					<li><a class="btn" target="_blank" href="apply.php">APPLY</a></li>
 				</ul>
 			</div><!--/.nav-collapse -->
 		</div>
