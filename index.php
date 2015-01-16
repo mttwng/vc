@@ -31,7 +31,7 @@
 </div>
 
 <!-- Culture -->
-<div class="screen-fit" data-parallax="scroll" data-image-src="assets/images/culture1.jpg">
+<div class="screen-fit" data-parallax="scroll" data-image-src="assets/images/culture.jpg">
 	<div id="trigger2"></div>
 	<div id="right-bar-1" class="right-bar">
 		<div class="bar-text">
