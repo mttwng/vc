@@ -22,7 +22,7 @@
 			<p>Consultants are selected from a diverse range of backgrounds and rank
 			 at the top of their classes. Alumni have gone to prestigious institutions
 			  such as Goldman Sachs, Bain &amp; Company, and Apple.</p>
-			<a type="button" href="careers.php" class="btn btn-default whitebutton">Careers</a>
+			<a id="end-transparent" type="button" href="careers.php" class="btn btn-default whitebutton">Careers</a>
 		</div>
 	</div>
 	<div class="down-arrow">
