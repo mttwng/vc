@@ -651,9 +651,9 @@ td.header:hover {
 	color: black;
 	background: white;
 	background: solid;
-	-webkit-box-shadow: inset 0px 0px 0px 2px black;
-	-moz-box-shadow: inset 0px 0px 0px 2px black;
-	box-shadow: inset 0px 0px 0px 2px black;
+	-webkit-box-shadow: inset 0px 0px 0px 2px white;
+	-moz-box-shadow: inset 0px 0px 0px 2px white;
+	box-shadow: inset 0px 0px 0px 2px white;
 }
 
 .down-arrow {
