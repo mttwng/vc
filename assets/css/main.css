@@ -676,7 +676,7 @@ td.header:hover {
 	width: 100%;
 	position: relative;
 	background: transparent;
-	min-height: 550px;
+	min-height: 500px;
 	line-height: 200px;
 	background-size: cover;
 	color: white;
