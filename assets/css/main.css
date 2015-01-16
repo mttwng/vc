@@ -615,12 +615,15 @@ td.header:hover {
     width: 100%;
 }
 .right-bar {
+	/*display: none;*/
+    transform: translateX(100%);
 	background-color: black;
 	width: 33%;
-	right: 0;
-	transform: translateX(200%);
+	display: none;
+	/*right: 0;*/
+	float: right;
 	min-height: 100%;
-	position: absolute;
+	position: relative;
 	opacity: 0.8;
 }
 

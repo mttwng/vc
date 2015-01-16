@@ -33,7 +33,9 @@ $(document).ready(function(){
 
 $(document).ready(function() {
     var left1 = TweenMax.to("#left-bar-1", 0.5, {transform: "translateX(0)"});
-    var right1 = TweenMax.to("#right-bar-1", 0.5, {transform: "translateX(0)"});
+    var right1 = new TimelineMax()
+        .add(TweenMax.to("#right-bar-1", 0.01, {display: "inline"}))
+        .add(TweenMax.to("#right-bar-1", 0.5, {transform: "translateX(0)"}));
     var left2 = TweenMax.to("#left-bar-2", 0.5, {transform: "translateX(0)"});
 
     // build scene
