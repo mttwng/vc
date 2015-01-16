@@ -2,7 +2,7 @@
 
 <!-- Opening Page -->
 
-<div id="vertical" class="screen-fit head-img" data-parallax="scroll" data-image-src="assets/images/bg.jpg">
+<div id="vertical" class="screen-fit text-center" data-parallax="scroll" data-image-src="assets/images/bg.jpg">
     <div class="container">
 		<div class="row">
 			<h1 class="lead"><span>VOYAGER</span> CONSULTING</h1>

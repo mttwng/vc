@@ -661,7 +661,7 @@ td.header:hover {
 	position: absolute;
 	cursor: pointer;
 
-	opacity: 0.2;
+	opacity: 0.5;
     transition: opacity .5s ease-out;
     -moz-transition: opacity .5s ease-out;
     -webkit-transition: opacity .5s ease-out;
@@ -685,10 +685,12 @@ td.header:hover {
 	color: white;
 }
 
+.screen-fit .lead,
 .page-header-pic .lead {
 	font-size: 90px;
 	margin-bottom: 26px;
 	font-weight: 200;
+	color: white;
  }
 
 .page-header-pic div {
