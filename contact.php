@@ -1,7 +1,7 @@
 <?php include 'header.php';?>
 
 
-        <div class="page-header-pic" data-parallax="scroll" data-image-src="assets/images/contact.jpg">
+        <div class="page-header-pic" data-parallax="scroll" data-speed="0.7" data-image-src="assets/images/contact.jpg">
         	<h1 class="lead">Contact</h1>
         </div>
 
