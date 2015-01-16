@@ -1,14 +1,13 @@
 <?php include 'header.php';?>
-
-        <div class="page-header" data-parallax="scroll" data-image-src="assets/images/careers.jpg">
-        </div>
+    <div class="page-header-pic" data-parallax="scroll" data-image-src="assets/images/careers.jpg">
+    </div>
 
 <div class="container">
 
+    <header class="page-header">
+        <h1 class="page-title">Careers</h1>
+    </header>
 
-<!-- 	<header class="page-header">
-		<h1 class="page-title">Careers</h1>
-	</header> -->
 
 	<p>Voyager prides itself on its unparalleled professional development which has allowed members to enter a diverse group of prestigious organizations. Members leverage their experiences and connections from Voyager to land positions at leading institutions in management consulting, investment banking, and technology.</p>
 

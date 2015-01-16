@@ -672,12 +672,25 @@ td.header:hover {
 	opacity: 1;
 }
 
-.page-header {
+.page-header-pic {
 	width: 100%;
 	position: relative;
 	background: transparent;
 	min-height: 550px;
+	line-height: 200px;
 	background-size: cover;
+	color: white;
+}
+
+.page-header-pic div {
+	position: relative;
+	/*padding-top: 100px;*/
+	vertical-align: middle;
+	height: auto;
+	margin: 0 auto;
+	text-align: center;
+	line-height: 200px;
+
 }
 /*#trigger1 {
 	margin-bottom: 200px;

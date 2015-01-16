@@ -1,13 +1,13 @@
 <?php include 'header.php';?>
 
-		<div class="page-header" data-parallax="scroll" data-image-src="assets/images/team.jpg">
-		</div>
+	<div class="page-header-pic" data-parallax="scroll" data-image-src="assets/images/team.jpg">
+	</div>
 
 	<div class="container">
 
-<!-- 		<header class="page-header">
+		<header class="page-header">
 			<h1 class="page-title">About</h1>
-		</header> -->
+		</header>
 
 
 	  <ul id="tabs" class="nav nav-tabs nav-justified" data-tabs="tabs">

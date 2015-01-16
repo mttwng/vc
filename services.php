@@ -1,13 +1,13 @@
 <?php include 'header.php';?>
 
-        <div class="page-header" data-parallax="scroll" data-image-src="assets/images/services.jpg">
-        </div>
+    <div class="page-header-pic" data-parallax="scroll" data-image-src="assets/images/services.jpg">
+    </div>
 
 	<div class="container">
 
-<!-- 		<header class="page-header">
+		<header class="page-header">
 			<h1 class="page-title">Services</h1>
-		</header> -->
+		</header>
 
 		<h2>Clients</h2>
 		<p>
