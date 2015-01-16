@@ -35,10 +35,11 @@ html, body {
 }
 
 .screen-fit#vertical {
-	background-repeat: no-repeat;
 	min-height: 100%;
 	padding-top: 19%;
 	background-repeat: no-repeat;
+	/*background-image: url(../images/bg.jpg);*/
+	
 }
 
 .screen-fit .lead {
