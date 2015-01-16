@@ -92,18 +92,23 @@
 				    </a>
 					</div>
 					<div class="col-xs-6 col-md-3">
-						<a href="http://www.intel.com/" target="_blank" class="thumbnail">
-				      <img src="assets/images/logos/intel.png" class="img" alt="Intel">
-				    </a>
-					</div>
-					<div class="col-xs-6 col-md-3">
 						<a href="http://www.microsoft.com/" target="_blank" class="thumbnail">
 				      <img src="assets/images/logos/microsoft.png" class="img" alt="Microsoft">
 				    </a>
 					</div>
 					<div class="col-xs-6 col-md-3">
+						<a href="http://www.linkedin.com/" target="_blank" class="thumbnail">
+				      <img src="assets/images/logos/linkedin.png" class="img" alt="Linkedin">
+				    </a>
+					</div>
+					<div class="col-xs-6 col-md-3">
 						<a href="http://www.ebay.com/" target="_blank" class="thumbnail">
 				      <img src="assets/images/logos/ebay.png" class="img" alt="Ebay">
+				    </a>
+					</div>
+					<div class="col-xs-6 col-md-3">
+						<a href="http://www.intel.com/" target="_blank" class="thumbnail">
+				      <img src="assets/images/logos/intel.png" class="img" alt="Intel">
 				    </a>
 					</div>	
 					<div class="col-xs-6 col-md-3">
@@ -114,11 +119,6 @@
 					<div class="col-xs-6 col-md-3">
 						<a href="http://www.yahoo.com/" target="_blank" class="thumbnail">
 				      <img src="assets/images/logos/yahoo.png" class="img" alt="Yahoo">
-				    </a>
-					</div>
-					<div class="col-xs-6 col-md-3">
-						<a href="http://www.htc.com/" target="_blank" class="thumbnail">
-				      <img src="assets/images/logos/htc.png" class="img" alt="HTC">
 				    </a>
 					</div>
 					<div class="col-xs-6 col-md-3">
