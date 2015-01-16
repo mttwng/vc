@@ -7,8 +7,11 @@
 		<div class="row">
 			<h1 class="lead"><span>VOYAGER</span> CONSULTING</h1>
 			<h2 class="tagline">
-				<a href="#trigger1" id="front-tab"> Impact Driven <br><br> <i class="fa fa-angle-double-down"></i></a>
-			</h2>	
+				Impact Driven 
+			</h2>
+			<div class="down-arrow">
+				<img id="bottomArrow" href="#trigger1" src="assets/images/arrowbottom2.png">
+			</div>	
 		</div>
 	</div>
 </div>

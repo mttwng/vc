@@ -586,6 +586,7 @@ td.header:hover {
 	/*background-image: url(../images/bg.jpg);*/
 	/*background-attachment: fixed;*/
 	background-size: cover;
+	color: white;
 }
 
 .screen-fit#vertical {
