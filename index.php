@@ -1,7 +1,6 @@
 <?php include 'header.php';?>
 
 <!-- Opening Page -->
-
 <div id="vertical" class="screen-fit text-center" data-parallax="scroll" data-image-src="assets/images/bg.jpg">
     <div class="container">
 		<div class="row">
