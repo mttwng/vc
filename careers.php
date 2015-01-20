@@ -61,12 +61,6 @@
                         <td>New York City, NY</td>
                     </tr>
                     <tr>
-                        <td>Amit Patankar</td>
-                        <td>Excelerate</td>
-                        <td>Chief Executive Officer</td>
-                        <td>Irvine, CA</td>
-                    </tr>
-                    <tr>
                         <td>Jane Sima</td>
                         <td>Bain &amp; Company</td>
                         <td>Associate Consultant</td>
@@ -87,6 +81,12 @@
                     <tr><td></td></tr>
                     <tr>
                         <td class="header">Engineering</td>
+                    </tr>
+                    <tr>
+                        <td>Amit Patankar</td>
+                        <td>Excelerate</td>
+                        <td>Chief Executive Officer</td>
+                        <td>Irvine, CA</td>
                     </tr>
                     <tr>
                         <td>Matthew Wong</td>
@@ -147,12 +147,6 @@
                         <td>San Francisco, CA</td>
                     </tr>
                     <tr>
-                        <td>Amit Patankar</td>
-                        <td>Apple</td>
-                        <td>Design Verification Intern</td>
-                        <td>Cupertino, CA</td>
-                    </tr>
-                    <tr>
                         <td>Savan Patel</td>
                         <td>Box</td>
                         <td>User Operations Intern</td>
@@ -197,6 +191,12 @@
                         <td>Riverbed Technology</td>
                         <td>Engineering Intern</td>
                         <td>San Francisco, CA</td>
+                    </tr>
+                    <tr>
+                        <td>Amit Patankar</td>
+                        <td>Apple</td>
+                        <td>Design Verification Intern</td>
+                        <td>Cupertino, CA</td>
                     </tr>  
                     <tr>
                         <td>Matthew Wong</td>
