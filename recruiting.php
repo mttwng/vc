@@ -54,7 +54,7 @@
             <tr>
                 <td>Case Workshop</td>
                 <td>Fri Jan 30, 7:00 PM</td>
-                <td>Dwinelle 247</td>
+                <td>Wheeler 20</td>
             </tr>
             <tr>
                 <td>Application Deadline</td>
