@@ -195,6 +195,27 @@
 
 			</div>
 
+			<br>
+
+			<div class="row">
+
+				<div class="col-xs-6 col-md-3">
+					<div class="row">
+
+						<div class="col-md-12">
+							<img src="assets/images/team/robbieh.jpg" class="img" alt="Robbie">
+						</div>
+					</div>
+				</div>
+
+				<div class="col-xs-6 col-md-9">
+					<h3>Vice President of Consulting - Robert Hollis</h3>
+					<p>Robbie is a fourth year studying Economics with specific interests in financial economics and econometrics. Robbie started in Voyager as a consultant on the Twitch.tv project his first semester on UC Berkeley campus, after transferring from Boston University his junior year.  When he isn't working, he enjoys hikes, bike rides, hunting, and drinking with friends. He currently works at Wells Fargo's securities division and will continue there following his graduation.</p>
+					<p>Contact: <a href="mailto:rhollis@berkeley.edu" target="_blank">rhollis@berkeley.edu</a></p>
+				</div>
+
+			</div>
+
 			<br>			
 
 
@@ -228,11 +249,11 @@
 
 				<br>
 
-				<h2>Advisors</h2>
+				<h2>Strategy Advisors</h2>
 				<br>
 
 				<div class="row">
-					<div class="col-xs-6 col-md-3">
+					<!-- <div class="col-xs-6 col-md-3">
 						<img src="assets/images/team/sumedhb.jpg" class="img" alt="Sumedh">
 						<h4>Sumedh Bhattacharya</h4>
 						<p>Major</p>
@@ -241,7 +262,7 @@
 						<img src="assets/images/team/joannac.jpg" class="img" alt="Joanna">
 						<h4>Joanna Chou</h4>
 						<p>Business</p>
-					</div>					
+					</div> -->					
 					<div class="col-xs-6 col-md-3">
 						<img src="assets/images/team/rohitg.jpg" class="img" alt="Rohit">
 						<h4>Rohit Gupta</h4>

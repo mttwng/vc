@@ -40,13 +40,13 @@
                         <td>Rohit Gupta</td>
                         <td>Credit Suisse</td>
                         <td>Investment Banking Analyst Intern - Technology</td>
-                        <td>San Franciso, CA</td>
+                        <td>San Francisco, CA</td>
                     </tr>
                     <tr>
                         <td>Robert Hollis</td>
                         <td>Wells Fargo Investment Bank</td>
                         <td>Public Finance Analyst/Higher Education &amp; Nonprofit</td>
-                        <td>San Franciso, CA</td>
+                        <td>San Francisco, CA</td>
                     </tr>
                     <tr>
                         <td>Michelle Hsu</td>
@@ -67,6 +67,12 @@
                         <td>San Francisco, CA</td>
                     </tr>
                     <tr>
+                        <td>Liying Tan</td>
+                        <td>Deloitte Consulting</td>
+                        <td>Analyst</td>
+                        <td>San Francisco, CA</td>
+                    </tr>
+                    <tr>
                         <td>Melissa Zhang</td>
                         <td>BlackRock</td>
                         <td>Product and Strategy Analyst </td>
@@ -75,6 +81,12 @@
                     <tr><td></td></tr>
                     <tr>
                         <td class="header">Engineering</td>
+                    </tr>
+                    <tr>
+                        <td>Amit Patankar</td>
+                        <td>Excelerate</td>
+                        <td>Chief Executive Officer</td>
+                        <td>Irvine, CA</td>
                     </tr>
                     <tr>
                         <td>Matthew Wong</td>
@@ -120,19 +132,19 @@
                         <td>Rohit Gupta</td>
                         <td>Deloitte Consulting</td>
                         <td>Business Technology Analyst Intern</td>
-                        <td>San Franciso, CA</td>
+                        <td>San Francisco, CA</td>
                     </tr>
                     <tr>
                         <td>Robert Hollis</td>
                         <td>Kohlberg Kravis Roberts (KKR)</td>
                         <td>Intern</td>
-                        <td>San Franciso, CA</td>
+                        <td>San Francisco, CA</td>
                     </tr>
                     <tr>
                         <td>Michelle Hsu</td>
                         <td>Kiva</td>
                         <td>Kiva Zip Intern</td>
-                        <td>San Franciso, CA</td>
+                        <td>San Francisco, CA</td>
                     </tr>
                     <tr>
                         <td>Savan Patel</td>
@@ -144,6 +156,12 @@
                         <td>Jane Sima</td>
                         <td>PricewaterhouseCoopers</td>
                         <td>Management Consulting Intern</td>
+                        <td>San Jose, CA</td>
+                    </tr>
+                    <tr>
+                        <td>Liying Tan</td>
+                        <td>Adobe</td>
+                        <td>Internal Consulting Intern</td>
                         <td>San Jose, CA</td>
                     </tr>
                     <tr>
@@ -173,6 +191,12 @@
                         <td>Riverbed Technology</td>
                         <td>Engineering Intern</td>
                         <td>San Francisco, CA</td>
+                    </tr>
+                    <tr>
+                        <td>Amit Patankar</td>
+                        <td>Apple</td>
+                        <td>Design Verification Intern</td>
+                        <td>Cupertino, CA</td>
                     </tr>  
                     <tr>
                         <td>Matthew Wong</td>
