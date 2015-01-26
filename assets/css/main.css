@@ -116,7 +116,7 @@ html, body {
 }
 
 .down-arrow img {
-	max-width: 100%;
+	max-width: 
 }
 
 .down-arrow:hover {
@@ -130,12 +130,12 @@ html, body {
 	position: relative;
 	background: transparent;
 	min-height: 500px;
-	/*line-height: 200px;*/
+	line-height: 200px;
 	overflow: hidden;
 	background-size: cover;
-	/*color: white;*/
-	/*text-align: center;*/
-	/*padding-top: 180px;*/
+	color: white;
+	text-align: center;
+	padding-top: 180px;
 	/*color: white;*/
 }
 
