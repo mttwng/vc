@@ -129,6 +129,12 @@
                         <td>San Francisco, CA</td>
                     </tr>
                     <tr>
+                        <td>Bingze Gu</td>
+                        <td>Goldman Sachs</td>
+                        <td>Summer Analyst</td>
+                        <td>New York City, NY</td>
+                    </tr>
+                    <tr>
                         <td>Olivia Gu</td>
                         <td>UBS</td>
                         <td>Wealth Management Intern</td>
