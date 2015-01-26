@@ -116,7 +116,7 @@ html, body {
 }
 
 .down-arrow img {
-	max-width: 
+	max-width: 100%;
 }
 
 .down-arrow:hover {
