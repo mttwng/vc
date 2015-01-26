@@ -123,6 +123,12 @@
                         <td class="header">Business</td>
                     </tr>
                     <tr>
+                        <td>Ellen Chun</td>
+                        <td>Bain &amp; Company</td>
+                        <td>Associate Consultant</td>
+                        <td>San Francisco, CA</td>
+                    </tr>
+                    <tr>
                         <td>Olivia Gu</td>
                         <td>UBS</td>
                         <td>Wealth Management Intern</td>
@@ -176,12 +182,6 @@
                         <td>Account Analyst Intern</td>
                         <td>Newport Beach, CA</td>
                     </tr>
-                    <tr>
-                        <td>Gwin Zhou</td>
-                        <td>Microsoft</td>
-                        <td>Software Development Engineer Intern</td>
-                        <td>Redmond, WA</td>
-                    </tr>
                     <tr><td></td></tr>
                     <tr>
                         <td class="header">Engineering</td>
@@ -209,6 +209,12 @@
                         <td>FMC Technologies Schilling Robotics</td>
                         <td>Software Engineer Intern</td>
                         <td>Davis, CA</td>
+                    </tr>
+                    <tr>
+                        <td>Gwin Zhou</td>
+                        <td>Microsoft</td>
+                        <td>Software Development Engineer Intern</td>
+                        <td>Redmond, WA</td>
                     </tr>                   
                 </tbody>
             </table>    
