@@ -115,6 +115,10 @@ html, body {
     -o-transition: opacity .5s ease-out;
 }
 
+.down-arrow img {
+	max-width: 100%;
+}
+
 .down-arrow:hover {
 	opacity: 1;
 }
@@ -126,12 +130,13 @@ html, body {
 	position: relative;
 	background: transparent;
 	min-height: 500px;
-	line-height: 200px;
+	/*line-height: 200px;*/
+	overflow: hidden;
 	background-size: cover;
-	color: white;
-	text-align: center;
-	padding-top: 180px;
-	color: white;
+	/*color: white;*/
+	/*text-align: center;*/
+	/*padding-top: 180px;*/
+	/*color: white;*/
 }
 
 .screen-fit .lead,
@@ -143,8 +148,8 @@ html, body {
  }
 
 .page-header-pic div {
-	position: relative;
-	/*padding-top: 100px;*/
+	position: absolute;
+	padding-top: 100px;
 	vertical-align: middle;
 	height: auto;
 	margin: 0 auto;
@@ -320,7 +325,7 @@ ul.list-spaces li {margin-bottom: 10px;}
 
 .top-margin {margin-top: 20px;}
 
-img {max-width: 100%;}
+/*img {max-width: 100%;}*/
 
 	img.pull-right {margin-left: 10px;}
 
