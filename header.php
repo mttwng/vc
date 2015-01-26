@@ -28,6 +28,7 @@
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 
 	<!-- Custom styles -->
+	<!-- <link rel="stylesheet" media="screen and (max-width: 500px)" href="assets/css/mobile.css" /> -->
 	<link rel="stylesheet" href="assets/css/main.css">
 
 	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->

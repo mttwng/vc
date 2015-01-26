@@ -29,25 +29,30 @@ $(document).ready(function(){
      	}); // end window scroll
 }); // close out script
 
-$(document).ready(function() {
-    var left1 = TweenMax.to("#left-bar-1", 0.5, {transform: "translateX(0)"});
-    var right1 = new TimelineMax()
-        .add(TweenMax.to("#right-bar-1", 0.01, {display: "inline"}))
-        .add(TweenMax.to("#right-bar-1", 0.5, {transform: "translateX(0)"}));
-    var left2 = TweenMax.to("#left-bar-2", 0.5, {transform: "translateX(0)"});
+$(document).ready(
 
-    // build scene
-    var scene = new ScrollScene({triggerElement: "#trigger1"})
-            .setTween(left1)
-            .addTo(controller);
+    function() {
 
-    var scene = new ScrollScene({triggerElement: "#trigger2"})
-            .setTween(right1)
-            .addTo(controller);
+    if ($(window).width() > 500) {
+        var left1 = TweenMax.to("#left-bar-1", 0.5, {transform: "translateX(0)"});
+        var right1 = new TimelineMax()
+            .add(TweenMax.to("#right-bar-1", 0.01, {display: "inline"}))
+            .add(TweenMax.to("#right-bar-1", 0.5, {transform: "translateX(0)"}));
+        var left2 = TweenMax.to("#left-bar-2", 0.5, {transform: "translateX(0)"});
 
-    var scene = new ScrollScene({triggerElement: "#trigger3"})
-            .setTween(left2)
-            .addTo(controller);
+        // build scene
+        var scene = new ScrollScene({triggerElement: "#trigger1"})
+                .setTween(left1)
+                .addTo(controller);
+
+        var scene = new ScrollScene({triggerElement: "#trigger2"})
+                .setTween(right1)
+                .addTo(controller);
+
+        var scene = new ScrollScene({triggerElement: "#trigger3"})
+                .setTween(left2)
+                .addTo(controller);
+      }
 
     // scene.addIndicators();
 
